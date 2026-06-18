@@ -6,6 +6,6 @@ __pycache__/
 
 # Ignore a specific folder
 data/raw/
-data/mnist_unpacker
+data/mnist.npz
 
 output/
