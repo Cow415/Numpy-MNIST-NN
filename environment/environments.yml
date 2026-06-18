@@ -1,0 +1,14 @@
+name: CNN
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.13.12
+  - ipykernel
+  - numpy
+  - jupyterlab
+  - notebook
+  - pip
+  
+prefix: /Users/caozehuang/miniconda3/envs/CNN
